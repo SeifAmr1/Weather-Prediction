@@ -70,8 +70,8 @@ The following feature engineering and preprocessing steps were applied:
 
 | Model | Accuracy (Test Set) |
 |-------|----------------------|
-| GRU   | **`87%`** |
-| HMM   | **`67%`** |
+| GRU   | **`67%`** |
+| HMM   | **`87%`** |
 
 Bar chart comparing both models was generated using `Matplotlib`.
 
